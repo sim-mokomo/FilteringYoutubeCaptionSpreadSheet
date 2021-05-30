@@ -250,7 +250,10 @@
     "wrappy": "^1.0.2",
     "yallist": "^4.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@google/clasp": "^2.3.2",
+    "@types/google-apps-script": "^1.0.33"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
